@@ -1,0 +1,32 @@
+/* Navbar.css */
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #555;
+  }
+  
+  nav ul li {
+    margin: 0;
+    padding: 0.5rem 1rem;
+  }
+  
+  nav ul li:hover {
+    background-color: #777;
+    cursor: pointer;
+  }
+  
